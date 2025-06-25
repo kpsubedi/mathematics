@@ -1,2 +1,9 @@
 [Fast Fourier Transform]
-- One of the more interesting algorithms 
+- One of the more interesting algorithms in number theory is the Fast Fourier transform (FFT). 
+- FFTs are a key building block in many algorithms, including 
+* extremely fast multiplication of large numbers (https://www.math.clemson.edu/~sgao/papers/GM10.pdf),
+* multiplication of polynomials, and
+* extremely fast generatioon and recovery of erasure codes (https://blog.ethereum.org/2014/08/16/secret-sharing-erasure-coding-guide-aspiring-dropbox-decentralizer).
+
+
+
