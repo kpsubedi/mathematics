@@ -1,7 +1,2 @@
-[Abstract Algebra]
-https://www.youtube.com/watch?v=IP7nW_hKB7I&list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6&index=1
-
-
-
-[Fast Fourier Transforms]
-https://vitalik.eth.limo/general/2019/05/12/fft.html
+[Fast Fourier Transform]
+- One of the more interesting algorithms 
